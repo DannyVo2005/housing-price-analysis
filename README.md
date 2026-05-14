@@ -1,7 +1,7 @@
 # Housing Price Trends Analysis
 
 ## Overview
-Analyzing housing price trends across U.S. metro areas using Zillow dataset from 2000–2026 with Power BI. The price of houses plays a major factor in affordability, cost of living, and the economy as a whole. The price of houses has been subject to various dynamics in the past few years due to various reasons such as inflation, interest rates, and demand and supply.
+Analyzing housing price trends across U.S. metro areas using Zillow dataset from 2000–2026 with Power BI. The price of houses plays a major factor in affordability, cost of living, and the economy as a whole. The price of houses has been subject to various dynamics in the past few years due to various reasons such as inflation, interest rates, and supply and demand.
 
 ## Tools Used
 - Power BI
